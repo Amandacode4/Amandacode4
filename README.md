@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aman Dangar 👋</h1>
+<h1 align="center">Hi there, I'm Aman</h1>
 <h3 align="center"> tech ambitious Engineer | Student at IIT Delhi</h3>
 
 <p align="center">
