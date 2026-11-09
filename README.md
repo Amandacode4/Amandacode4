@@ -1,33 +1,23 @@
-<h1 align="center">Hi there, I'm Aman</h1>
-<h3 align="center"> tech ambitious Engineer | Student at IIT Delhi</h3>
+## Aman Dangar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+Software;Solving+Complex+Problems;Turning+Coffee+into+Code" alt="Typing SVG" />
-</p>
+Second-year undergraduate at **IIT Delhi**. I build machine learning systems end to end, and I care about
+the parts that break in practice: perception when objects are hidden, agents that must know when they're
+done, and code where every nanosecond and cache line counts.
 
----
+**Looking for a research internship, summer 2027 (mid-May to end of July)** in computer vision,
+LLM agents or efficient ML. → amandangar102@gmail.com · [LinkedIn](https://www.linkedin.com/in/amandangar/)
 
-###  About Me
--  I’m currently building some software projects and exploring advanced computer science concepts.
--  **Core Skills**: Software Architecture, Data Structures & Algorithms, Systems Engineering, and Backend Development.
--  I'm a student at **IIT Delhi**, passionate about tech and coding.
--  Currently learning and building side projects to expand my tech stack.
+### Selected work
 
----
+| Project | What it shows | Headline |
+|---|---|---|
+| [**Tracking pedestrians through dense crowds**](https://github.com/Amandacode4/Computer-Vision-Project) | ByteTrack-style two-stage association written from scratch, confidence-adaptive Kalman filter, occlusion gap filling | Up to **246 people per frame** |
+| [**Code Scout, an autonomous coding agent**](https://github.com/Amandacode4/GenAI-CodeScout) | Agent loop with sandboxed tools, verification before stopping, read-only sub-agents, skills, MCP | Built from a raw API call, no framework |
+| [**Nanosecond trading systems in C++20**](https://github.com/Amandacode4/Low-Latency-Track_CSOT) | Zero-allocation hot paths, false-sharing fixes, lock-free SPSC ring buffer, batched UDP receive | **#1 on the leaderboard · 18 ns median latency** |
 
-###  Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+### Interests
+Multi-object tracking and video understanding · robust perception under occlusion · LLM agents and tool use ·
+efficient inference and ML systems · robot perception
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandacode4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacode4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+### Tools
+Python · C++20 · PyTorch · Ultralytics YOLOv8 · OpenCV · NumPy / SciPy · LLM APIs and MCP · Linux · Git
