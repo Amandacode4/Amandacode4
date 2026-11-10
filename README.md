@@ -16,7 +16,7 @@ LLM agents or efficient ML. → amandangar102@gmail.com · [LinkedIn](https://ww
 | [**Nanosecond trading systems in C++20**](https://github.com/Amandacode4/Low-Latency-Track_CSOT) | Zero-allocation hot paths, false-sharing fixes, lock-free SPSC ring buffer, batched UDP receive | **#1 on the leaderboard · 18 ns median latency** |
 
 ### Interests
-Multi-object tracking and video understanding · robust perception under occlusion · LLM agents and tool use ·
+Multi-object tracking and video understanding · perception under occlusion · LLM agents and tool use ·
 efficient inference and ML systems · robot perception
 
 ### Tools
